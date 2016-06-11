@@ -1,0 +1,9 @@
+{
+  "name": "bethemindset.com",
+  "description": "Our website",
+  "dependencies": {
+    "body-parser": "",
+    "compression": "",
+    "express": ""
+  }
+}
