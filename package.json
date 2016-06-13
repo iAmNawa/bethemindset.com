@@ -3,6 +3,7 @@
   "description": "Our website",
   "dependencies": {
     "body-parser": "",
+    "jquery": "^2.2.0",
     "compression": "",
     "express": ""
   }
