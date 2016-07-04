@@ -3,6 +3,7 @@ img {
   border-color: black;
   border-style: solid;
 }
+<<<<<<< HEAD
 body {
 	background-image: url("../images/background.jpg");
 	background: cover; 
@@ -12,3 +13,9 @@ body {
           
 				
 } 
+=======
+
+footer {
+  text-align: center;
+}
+>>>>>>> 10106dc2925a8f466f839a5b68d1df731c75833d
