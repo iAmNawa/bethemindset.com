@@ -3,3 +3,12 @@ img {
   border-color: black;
   border-style: solid;
 }
+body {
+	background-image: url("../images/background.jpg");
+	background: cover; 
+	background-color:  green;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+          
+				
+} 
