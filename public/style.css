@@ -1,11 +1,11 @@
 body {
-	
-	background-image: url("../images/background3.jpg");
-	background: cover; 
+
+	background-image: url("../images/background.jpg");
+	background: cover;
 	background-color:  green;
 	background-repeat: no-repeat;
-	-webkit-background-size: cover; 
-				
+	-webkit-background-size: cover;
+
 }
 
 @media only screen and (max-width:  1500px ) {
@@ -14,20 +14,20 @@ body {
 		height: auto;
 		width: 100%;
 	}
-	
+
 }
 
 @media only screen and (max-width: 927px) {
 	body {
 		background-color: green;
 		background-size: 125% auto;
-		
+
 	}
 }
 @media only screen and (max-width:  800px) {
 	body {
 		background-color: yellow;
-		
+
 		width: 100%;
 		background-size: 150% auto;
 	}
@@ -56,13 +56,13 @@ body {
 		background-size: 250% auto;
 	}
 }body {
-	
-	background-image: url("../images/background3.jpg");
-	background: cover; 
+
+	background-image: url("../images/background.jpg");
+	background: cover;
 	background-color:  green;
 	background-repeat: no-repeat;
-	-webkit-background-size: cover; 
-				
+	-webkit-background-size: cover;
+
 }
 
 @media only screen and (max-width:  1500px ) {
@@ -71,20 +71,20 @@ body {
 		height: auto;
 		width: 100%;
 	}
-	
+
 }
 
 @media only screen and (max-width: 927px) {
 	body {
 		background-color: green;
 		background-size: 125% auto;
-		
+
 	}
 }
 @media only screen and (max-width:  800px) {
 	body {
 		background-color: yellow;
-		
+
 		width: 100%;
 		background-size: 150% auto;
 	}
