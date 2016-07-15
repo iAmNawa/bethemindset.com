@@ -8,7 +8,15 @@ body {
 }
 
 .parent {
-padding-top: 30%;
+position: absolute;
+top: 50%;
+left: 50%;
+
+
+float:right;
+
+display: inline-block;
+text-align: left
 
 }
 
@@ -26,14 +34,21 @@ button {
 	vertical-align: middle;
 	font-weight: lighter;
 	background: black;
+vertical-align: middle;
+
+text-align: center;
+
+
 }
 
-button:hover {
+button:hover, button:focus {
 	transition: 0.2s;
 	color: black;
 	background: white;
   border-color: white;
 	cursor: pointer;
+	outline: none;
+
 
 }
 /**** FLEX  ****/
