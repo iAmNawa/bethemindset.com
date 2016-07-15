@@ -29,10 +29,11 @@ button {
 }
 
 button:hover {
-	transition: 0.6s;
+	transition: 0.2s;
 	color: black;
 	background: white;
   border-color: white;
+	cursor: pointer;
 
 }
 /**** FLEX  ****/
