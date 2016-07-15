@@ -1,8 +1,33 @@
 body {
-	background-image: url("../images/background.jpg");
+	background-image: url("../images/background2.jpg");
 	background: cover;
 	background-color:  green;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	min-height: 100vh;
 }
+
+.parent {
+	
+
+}
+button {
+	text-align: center;
+	height: 50px;
+	margin: 5px;
+	color: white;
+	line-height:  50px;
+	opacity: 0.4;
+	font-weight: 600;
+	position: absolute;
+	top: 50%
+
+}
+
+/**** FLEX  ****/
+
+.parent {
+	display:  flex;
+	justify-content: center;
+	vertical-align: middle;
+}	
