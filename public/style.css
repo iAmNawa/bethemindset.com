@@ -7,20 +7,11 @@ body {
 	min-height: 100vh;
 }
 
-.parent {
-position: absolute;
-top: 50%;
-left: 50%;
 
-
-float:right;
-
-display: inline-block;
-text-align: left
+.parent{
+	
 
 }
-
-
 button {
 	text-decoration: none;
   color: white;
@@ -31,12 +22,11 @@ button {
   border-color: white;
   border-radius: 5px;
   font-family: helvetica, cursive;
-	vertical-align: middle;
 	font-weight: lighter;
 	background: black;
-vertical-align: middle;
 
-text-align: center;
+
+
 
 
 }
@@ -54,7 +44,8 @@ button:hover, button:focus {
 /**** FLEX  ****/
 
 .parent {
-	display:  flex;
-	justify-content: center;
-	vertical-align: middle;
+	display: flex;
+
+  justify-content: center;
+
 }
