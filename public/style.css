@@ -6,12 +6,6 @@ body {
 	-webkit-background-size: cover;
 	min-height: 100vh;
 }
-
-
-.parent{
-	
-
-}
 button {
 	text-decoration: none;
   color: white;
@@ -24,13 +18,7 @@ button {
   font-family: helvetica, cursive;
 	font-weight: lighter;
 	background: black;
-
-
-
-
-
 }
-
 button:hover, button:focus {
 	transition: 0.2s;
 	color: black;
@@ -38,14 +26,12 @@ button:hover, button:focus {
   border-color: white;
 	cursor: pointer;
 	outline: none;
-
-
 }
-/**** FLEX  ****/
 
+/**** FLEX  ****/
 .parent {
 	display: flex;
-
+align-content: center;
   justify-content: center;
 
 }
